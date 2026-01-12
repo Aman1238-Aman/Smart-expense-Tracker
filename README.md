@@ -52,7 +52,7 @@ Improve budgeting and financial discipline
 
 Clone the repository
 
-git clone https://github.com/your-username/Smart-Expense-Tracker.git
+git clone https://github.com/Aman1238-Aman/Smart-expense-Tracker.git
 
 
 Navigate to the project directory
